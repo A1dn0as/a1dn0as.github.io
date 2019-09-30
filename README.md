@@ -8,4 +8,4 @@
 ### -Js
 ### -Pascal and more
 ### [Vk](https://vk.com/aldn0as)
-![SayHI](nodede.jpg "It's NOde!")
+![SaI](nodede.png)
