@@ -13,7 +13,7 @@
 - 4
 - 5
 ...
-
+[img](pictures/Полоски.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
