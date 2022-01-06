@@ -1,4 +1,7 @@
-## playroom
+# Портфолио
+## Галактионов Максим Алексеевич
+## Студент 4-ого курса
+## Вуз РГПУ им.Герцена
 
 You can use the [editor on GitHub](https://github.com/A1dn0as/https-a1dn0as.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
