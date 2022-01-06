@@ -3,9 +3,16 @@
 ## Студент 4-ого курса
 ## Вуз РГПУ им.Герцена
 
-You can use the [editor on GitHub](https://github.com/A1dn0as/https-a1dn0as.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Вы можете посмотреть структуру проекта [по данной ссылке](https://github.com/A1dn0as/https-a1dn0as.github.io/edit/main/docs/index.md), для полного понимания как устроен этот сайт.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+В данном портфолио будут представлены лабораторные работы по:
+
+- 1
+- 2
+- 3
+- 4
+- 5
+...
 
 ### Markdown
 
