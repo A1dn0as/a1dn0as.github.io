@@ -19,6 +19,7 @@
 - [Практика 7 курс](https://drive.google.com/drive/folders/10MOLd5ygfJwdMDu85Ogpjk2GNAj2dmPa?usp=sharing)
 - [Защита информации](https://drive.google.com/drive/folders/1D13PkMyj9bDo8WJ_8hImPC1hGG7LMIg7?usp=sharing)
 - [Оценка персонала](https://drive.google.com/drive/folders/1Uw0LMLUe2qTjdCf94qbB4LXNP6elCk5t?usp=sharing)
+
 В каждой из ссылок на курс, есть файлы лабораторных работ, которые были выполнены в процессе обучения.
 
 
